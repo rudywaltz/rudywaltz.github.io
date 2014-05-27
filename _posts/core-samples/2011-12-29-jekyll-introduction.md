@@ -9,8 +9,6 @@ tags : [intro, beginner, jekyll, tutorial]
 This Jekyll introduction will outline specifically  what Jekyll is and why you would want to use it.
 Directly following the intro we'll learn exactly _how_ Jekyll does what it does.
 
-audio
-<audio src="https://gombapresszo.hu/podcast/ksza_2014_05_23.mp3" controllers></audio>
 
 ## Overview
 
